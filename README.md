@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> , I'm Trivenk Agarwal</h1>
 <h3 align="center">Passionate Developer</h3>
 
-<p align="center"> <a href="https://twitter.com/@iamtrivenk"><img src="https://img.shields.io/badge/twitter-@imtrivenk-1da1f2?style=flat-square&logo=twitter">  </a> <a href="https://www.linkedin.com/in/sagar-goyal-63aa5b1a8/"><img src="https://img.shields.io/badge/linkedin-trivenk-agarwal-1830691ba?style=flat-square&logo=linkedin">  </a> </p>
+<p align="center"> <a href="https://twitter.com/@imtrivenk"><img src="https://img.shields.io/badge/twitter-@imtrivenk-1da1f2?style=flat-square&logo=twitter">  </a> <a href="https://www.linkedin.com/in/trivenk-agarwal-1830691ba/"><img src="https://img.shields.io/badge/linkedin-trivenk-agarwal-1830691ba?style=flat-square&logo=linkedin">  </a> </p>
 
 
 **Languages I have used**
@@ -23,7 +23,7 @@
 **Web/Full Stack projects**
 
 [![Raccoon](https://img.shields.io/badge/-📰&nbsp;&nbsp;S-Blog-000000?style=flat)](https://github.com/Trivenk/Raccoon)
-[![PlayBeat](https://img.shields.io/badge/-🛒&nbsp;&nbsp;DhanLaxmi-000000?style=flat)](https://github.com/Trivenk/PlayBeat)
+[![PlayBeat](https://img.shields.io/badge/-♬&nbsp;&nbsp;PlayBeat-000000?style=flat)](https://github.com/Trivenk/PlayBeat)
 
 <p align="center"><h2> 🔥 Streak Stats</h2></p>
 
